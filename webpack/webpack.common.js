@@ -35,7 +35,6 @@ module.exports = {
     path: path.resolve(__dirname, '..', './build'),
     filename: 'boudle.js',
   },
-  mode: 'development',
   plugins: [
     new HtmlWebpackPlugin({
       template: path.resolve(__dirname, '..', './src/index.html'),
