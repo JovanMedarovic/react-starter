@@ -1,14 +1,14 @@
-import React from "react";
-import './style.css'
-import ClickCounter from "./ClickCounter";
+import React from 'react';
+import ClickCounter from './ClickCounter';
+import './style.css';
 
 const App = () => {
-  return (
-    <>
-      <h1>Page Content Title</h1>
-      <ClickCounter />
-    </>
-  );
-}
+	return (
+		<>
+			<h1>Page Content Title</h1>
+			<ClickCounter />
+		</>
+	);
+};
 
 export default App;
