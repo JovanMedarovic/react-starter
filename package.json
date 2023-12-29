@@ -35,6 +35,8 @@
     "husky": "^8.0.3",
     "lint-staged": "^15.2.0",
     "react-refresh": "^0.14.0",
+    "sass": "^1.69.6",
+    "sass-loader": "^13.3.3",
     "style-loader": "^3.3.3",
     "typescript": "^5.3.3",
     "webpack": "^5.89.0",
@@ -43,11 +45,11 @@
     "webpack-merge": "^5.10.0"
   },
   "lint-stage": {
-    "src/**/*.{ts, tsx, js, jsx, json}": ["eslint --fix"]
+    "src/**/*.{ts, tsx, js, jsx, json}": [
+      "eslint --fix"
+    ]
   },
   "husky": {
-    "hooks": {
-      
-    }
+    "hooks": {}
   }
 }
