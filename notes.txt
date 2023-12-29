@@ -1,0 +1,20 @@
+- TS configuration ✅
+- Babel configuration ✅
+- CSS preprocessor - SASS ✅
+- CSS reset ✅
+- Linting and formatting - ESLint Prettier ✅
+- CSS modules ✅
+  - Install 'CSS Modules' VSCode extension for better experience ✅
+  - npm i eslint-plugin-css-modules => for linting ✅
+- Weback
+  - Webpack Common ✅
+  - Webpack Dev
+  - Webpack Prod
+- WebpackBundleAnalizer ✅
+- ReactRouter ✅
+- HTTP client - Axios ✅
+- Component library - MUI ✅
+- State managment - Redux ✅
+- Testing - ReactTestingLib and Jest ✅
+
+-Documentation - Docz vs Styleguidist vs Storybook?
