@@ -15,6 +15,8 @@
 - HTTP client - Axios ✅
 - Component library - MUI ✅
 - State managment - Redux ✅
-- Testing - ReactTestingLib and Jest ✅
+- Testing:
+  - ReactTestingLib and Jest ✅
+  - Jest config - NOT FULLY COMPLITED❗️
 
 -Documentation - Docz vs Styleguidist vs Storybook?
